@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 - 😄 Pronouns: He\Him
-- - 📫 How to reach me: [email](jeffinbasil@gmail.com)
+-  📫 How to reach me: jeffinbasil@gmail.com
 
 
 ## 🌐 Socials:
