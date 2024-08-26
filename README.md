@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm JEFFIN BASIL</h1>
+<h1 align="center">Hi 👋, I'm Jeffin Basil</h1>
 <h3 align="center">Enthusiast, code creator. Building, learning, and sharing passionately.</h3>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **jeffinbasil@gmail.com**
 
