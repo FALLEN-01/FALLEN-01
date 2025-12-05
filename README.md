@@ -9,21 +9,17 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48"/><br/>
-        <span>Vite</span>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="48"/><br/>Vite
       </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48"/><br/>
-        <span>Flutter</span>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="48"/><br/>Flutter
       </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48"/><br/>
-        <span>Godot</span>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="48"/><br/>Godot
       </td>
-      <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48"/><br/>
-        <span>Go</span>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48"/><br/>Go
       </td>
     </tr>
   </table>
@@ -31,28 +27,28 @@
 
 <br>
 
-<!-- SOCIAL MEDIA -->
+<!-- SOCIAL -->
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jeffin-basil" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://instagram.com/jeff_clicks_75" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://pin.it/7s2yyXpLb" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinterest/pinterest-original.svg" width="40"/>
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:jeffinbasil@gmail.com">
-    <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/Feedback.svg" width="40" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <br>
 
-<!-- LANGUAGES AND TOOLS -->
-<h3 align="center">Languages &amp; Tools</h3>
+<!-- LANGUAGES & TOOLS -->
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
@@ -65,33 +61,25 @@
 
 <br>
 
-<!-- TOP LANGUAGES VERTICAL -->
+<!-- TOP LANGUAGES HORIZONTAL -->
 <h3 align="center">Top Languages</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
+      <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>MySQL
       </td>
     </tr>
