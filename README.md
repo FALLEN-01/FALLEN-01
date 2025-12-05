@@ -27,28 +27,28 @@
 
 <br>
 
-<!-- SOCIAL -->
+<!-- SOCIAL MEDIA OFFICIAL ICONS -->
 <h3 align="center">Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jeffin-basil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/jeff_clicks_75" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://pin.it/7s2yyXpLb" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
-  </a>&nbsp;
+    <img src="https://img.icons8.com/fluency/48/pinterest.png" width="40"/>
+  </a>&nbsp;&nbsp;
   <a href="mailto:jeffinbasil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png" width="40"/>
   </a>
 </p>
 
 <br>
 
 <!-- LANGUAGES & TOOLS -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Languages &amp; Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
@@ -61,7 +61,7 @@
 
 <br>
 
-<!-- TOP LANGUAGES HORIZONTAL -->
+<!-- TOP LANGUAGES — HORIZONTAL -->
 <h3 align="center">Top Languages</h3>
 
 <div align="center">
