@@ -1,78 +1,99 @@
-<h1 align="center" style="margin: 8px 0 4px;">Hi 👋, I'm Jeffin Basil</h1>
-<h3 align="center" style="margin: 0 0 12px; font-weight:500;">Enthusiast, builder, and lifelong learner — creating, experimenting, and sharing along the way.</h3>
+<h1 align="center">Hi 👋, I'm Jeffin Basil</h1>
+<h3 align="center">Enthusiast, builder, and lifelong learner — creating, experimenting, and sharing along the way.</h3>
 
-<div align="center" style="margin-bottom:14px;">
-  <h3 style="margin:6px 0;">🌱 Currently Exploring</h3>
-  <table align="center" style="margin-top:6px;">
+<br>
+
+<!-- CURRENTLY EXPLORING -->
+<h3 align="center">🌱 Currently Exploring</h3>
+
+<div align="center">
+  <table>
     <tr>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="44" height="44" alt="Vite"/><br/>
-        <span style="font-size:13px;">Vite</span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="44"/><br/>
+        <span>Vite</span>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44" height="44" alt="Flutter"/><br/>
-        <span style="font-size:13px;">Flutter</span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="44"/><br/>
+        <span>Flutter</span>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="44" height="44" alt="Godot"/><br/>
-        <span style="font-size:13px;">Godot</span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="44"/><br/>
+        <span>Godot</span>
       </td>
       <td align="center" width="110">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="44" height="44" alt="Go"/><br/>
-        <span style="font-size:13px;">Go</span>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="44"/><br/>
+        <span>Go</span>
       </td>
     </tr>
   </table>
 </div>
 
-<div align="center" style="margin-bottom:12px;">
-  <h3 style="margin:6px 0;">Connect with Me</h3>
-  <div style="display:inline-flex; align-items:center; gap:18px; margin-top:8px;">
-    <a href="https://linkedin.com/in/jeffin-basil" target="_blank" rel="noreferrer" style="display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" style="filter: invert(1) saturate(0.6);"/>
-    </a>
-    <a href="https://instagram.com/jeff_clicks_75" target="_blank" rel="noreferrer" style="display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="28" height="28" alt="Instagram" style="filter: invert(1) saturate(0.6);"/>
-    </a>
-    <a href="https://pin.it/7s2yyXpLb" target="_blank" rel="noreferrer" style="display:inline-block;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pinterest.svg" width="28" height="28" alt="Pinterest" style="filter: invert(1) saturate(0.6);"/>
-    </a>
-    <a href="mailto:jeffinbasil@gmail.com" style="display:inline-flex; align-items:center; gap:8px; text-decoration:none; color:inherit;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" width="26" height="26" alt="Email" style="filter: invert(1) saturate(0.6);"/>
-      <span style="font-size:14px;">jeffinbasil@gmail.com</span>
-    </a>
-  </div>
-</div>
+<br>
 
-<div align="center" style="margin-bottom:12px;">
-  <h3 style="margin:6px 0;">Languages &amp; Tools</h3>
-  <div style="display:inline-flex; align-items:center; gap:14px; margin-top:8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  </div>
-</div>
+<!-- SOCIAL MEDIA -->
+<h3 align="center">Connect with Me</h3>
 
-<div align="center" style="margin-bottom:18px;">
-  <h3 style="margin:6px 0;">Top Languages</h3>
-  <div style="display:inline-flex; align-items:center; gap:20px; margin-top:8px;">
-    <div style="text-align:center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/><div style="font-size:12px;">Python</div>
-    </div>
-    <div style="text-align:center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java"/><div style="font-size:12px;">Java</div>
-    </div>
-    <div style="text-align:center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML"/><div style="font-size:12px;">HTML</div>
-    </div>
-    <div style="text-align:center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C"/><div style="font-size:12px;">C</div>
-    </div>
-    <div style="text-align:center;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL"/><div style="font-size:12px;">MySQL</div>
-    </div>
-  </div>
+<p align="center">
+  <a href="https://linkedin.com/in/jeffin-basil" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/jeff_clicks_75" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="https://pin.it/7s2yyXpLb" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pinterest.svg" width="35" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:jeffinbasil@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" width="35" />
+  </a>
+</p>
+
+<br>
+
+<!-- LANGUAGES & TOOLS -->
+<h3 align="center">Languages &amp; Tools</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+<br>
+
+<!-- TOP LANGUAGES (VERTICAL) -->
+<h3 align="center">Top Languages</h3>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>MySQL
+      </td>
+    </tr>
+  </table>
 </div>
