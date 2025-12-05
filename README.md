@@ -45,14 +45,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pinterest/pinterest-original.svg" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:jeffinbasil@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/master/svg/Feedback.svg" width="40" alt="Email"/>
   </a>
 </p>
 
 <br>
 
-<!-- LANGUAGES & TOOLS -->
-<h3 align="center">Languages & Tools</h3>
+<!-- LANGUAGES AND TOOLS -->
+<h3 align="center">Languages &amp; Tools</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
