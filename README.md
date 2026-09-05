@@ -43,7 +43,7 @@
   <a href="https://pin.it/7s2yyXpLb" target="_blank">
     <img src="https://img.icons8.com/fluency/48/pinterest.png" width="40"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:jeffinbasil@gmail.com">
+  <a href="mailto:jeffinbasil484@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail.png" width="40"/>
   </a>
 </p>
